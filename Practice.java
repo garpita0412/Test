@@ -9,4 +9,10 @@ public class Practice {
         }
         return res;
     }
+
+    public boolean isvalue(int a) {
+        if (a == 10)
+            return true;
+        return false;
+    }
 }
